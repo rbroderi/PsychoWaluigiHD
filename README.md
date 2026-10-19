@@ -29,8 +29,9 @@ This repository contains **no game files**. The installer asks for your own copy
 
 ## Installing
 
-1. Download [`release/PsychoWaluigiHD-Setup.exe`](release/PsychoWaluigiHD-Setup.exe)
-   (on the file's page, click **Download raw file**).
+1. Download **PsychoWaluigiHD-Setup.exe** from the
+   [latest release](https://github.com/rbroderi/PsychoWaluigiHD/releases/latest)
+   ([direct link](https://github.com/rbroderi/PsychoWaluigiHD/releases/latest/download/PsychoWaluigiHD-Setup.exe)).
 2. Run it. It installs for your user only, so it doesn't need administrator rights. Windows
    SmartScreen may warn that the installer is unrecognised, because it isn't signed. Choose
    **More info → Run anyway**.
